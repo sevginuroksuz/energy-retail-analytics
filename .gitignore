@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+
+# Large/private data files are kept locally.
+data/*.xlsx
+data/*.xls
+
+# OS/editor noise
+.DS_Store
+Thumbs.db
