@@ -1,13 +1,13 @@
 # Case Study 02 - Elektrik Verisi Analizi
 
-Bu proje, `data/elektrik_veri_hashed.xlsx` dosyasi uzerinden enerji perakende sektorune ait elektrik tuketim, tahsilat ve odeme zamanlamasi verilerini analiz etmek icin hazirlanmistir.
+Bu proje, `data/elektrik_veri.xlsx` dosyasi uzerinden enerji perakende sektorune ait elektrik tuketim, tahsilat ve odeme zamanlamasi verilerini analiz etmek icin hazirlanmistir.
 
 ## Proje Yapisi
 
 ```text
 case_study_02/
 |-- data/
-|   `-- elektrik_veri_hashed.xlsx
+|   `-- elektrik_veri.xlsx
 |-- notebooks/
 |   |-- notebook_01_veri_kesfi.ipynb
 |   |-- notebook_02_gorsellestirme.ipynb
@@ -35,7 +35,7 @@ pip install -r requirements.txt
 Ana veri dosyasi:
 
 ```text
-data/elektrik_veri_hashed.xlsx
+data/elektrik_veri.xlsx
 ```
 
 Excel dosyasi 5 sayfa icerir:
