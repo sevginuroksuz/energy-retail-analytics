@@ -5,7 +5,7 @@ Bu proje, `data/elektrik_veri.xlsx` dosyasi uzerinden enerji perakende sektorune
 ## Proje Yapisi
 
 ```text
-case_study_02/
+case_study02/
 |-- data/
 |   `-- elektrik_veri.xlsx
 |-- notebooks/
