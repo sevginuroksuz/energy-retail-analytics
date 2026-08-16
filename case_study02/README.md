@@ -38,6 +38,8 @@ Ana veri dosyasi:
 data/elektrik_veri.xlsx
 ```
 
+Not: Excel dosyasi boyutu nedeniyle Git LFS ile takip edilmektedir.
+
 Excel dosyasi 5 sayfa icerir:
 
 - `Tahsilat`
